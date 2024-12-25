@@ -1,4 +1,4 @@
-# [Public Roadmap](https://github.com/orgs/nxthdr/projects/1)
+# [Public Roadmap](https://github.com/orgs/nxthdr/projects/1/views/2)
 
 This repository outlines the public roadmap for [nxthdr](https://nxthdr.dev). It includes a list of features, enhancements, and bug fixes that we plan to implement in the future.
 
